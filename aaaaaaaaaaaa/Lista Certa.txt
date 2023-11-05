@@ -1,0 +1,77 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="BRASIL", A&E
+http://bdtb.io:80/378724/pcapQ5/71760.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="BRASIL", AMC
+http://bdtb.io:80/378724/pcapQ5/191199.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="BRASIL", Cinemax
+http://bdtb.io:80/378724/pcapQ5/71833.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="BRASIL", Comedy Central
+http://bdtb.io:80/378724/pcapQ5/71847.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="BRASIL", Disney Channel
+http://bdtb.io:80/378724/pcapQ5/71891.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="BRASIL", FX
+http://bdtb.io:80/378724/pcapQ5/71966.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="BRASIL", HBO
+http://bdtb.io:80/378724/pcapQ5/72118.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png" group-title="BRASIL", HBO 2
+http://bdtb.io:80/378724/pcapQ5/72110.ts
+#EXTINF:-1 tvg-id="124" tvg-logo="https://logodix.com/logo/789113.png" group-title="BRASIL", HBO Family
+http://bdtb.io:80/378724/pcapQ5/72114.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="BRASIL", HBO Mundi
+http://bdtb.io:80/378724/pcapQ5/72121.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="BRASIL", HBO Plus
+http://bdtb.io:80/378724/pcapQ5/72125.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png" group-title="BRASIL", HBO Pop
+http://bdtb.io:80/378724/pcapQ5/72129.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRASIL", HBO Signature
+http://bdtb.io:80/378724/pcapQ5/72134.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="BRASIL", HBO xtreme
+http://bdtb.io:80/378724/pcapQ5/72138.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="BRASIL", MegaPix
+http://bdtb.io:80/378724/pcapQ5/72166.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="BRASIL", Nickelodeon
+http://bdtb.io:80/378724/pcapQ5/72205.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="BRASIL", Paramount Channel
+http://bdtb.io:80/378724/pcapQ5/72217.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 2
+http://bdtb.io:80/378724/pcapQ5/72237.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 3
+http://bdtb.io:80/378724/pcapQ5/72241.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 4
+http://bdtb.io:80/378724/pcapQ5/72245.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 5
+http://bdtb.io:80/378724/pcapQ5/72249.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 6
+http://bdtb.io:80/378724/pcapQ5/72253.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 7
+http://bdtb.io:80/378724/pcapQ5/72257.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 8
+http://bdtb.io:80/378724/pcapQ5/180158.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere Clubes
+http://bdtb.io:80/378724/pcapQ5/72262.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="BRASIL", Sony Channel
+http://bdtb.io:80/378724/pcapQ5/71824.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="BRASIL", Space
+http://bdtb.io:80/378724/pcapQ5/72317.ts
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="BRASIL", SporTV
+http://bdtb.io:80/378724/pcapQ5/191244.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="BRASIL", Star Channel
+http://bdtb.io:80/378724/pcapQ5/71936.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Telecine_Action_%282019%29.svg" group-title="BRASIL", Telecine Action
+http://bdtb.io:80/378724/pcapQ5/72346.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telecine_Fun_%282019%29.svg" group-title="BRASIL", Telecine Cult
+http://bdtb.io:80/378724/pcapQ5/72350.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png" group-title="BRASIL", Telecine Fun
+http://bdtb.io:80/378724/pcapQ5/72354.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Telecine_Pipoca_%282019%29.svg/2231px-Telecine_Pipoca_%282019%29.svg.png" group-title="BRASIL", Telecine Pipoca
+http://bdtb.io:80/378724/pcapQ5/72358.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282019%29.svg" group-title="BRASIL", Telecine Premium
+http://bdtb.io:80/378724/pcapQ5/72362.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Telecine_Touch_%282019%29.svg" group-title="BRASIL", Telecine Touch
+http://bdtb.io:80/378724/pcapQ5/72366.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="BRASIL", TNT Séries
+http://bdtb.io:80/378724/pcapQ5/72380.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="BRASIL", Universal TV
+http://bdtb.io:80/378724/pcapQ5/72419.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRASIL", Warner TV
+http://bdtb.io:80/378724/pcapQ5/72431.ts
