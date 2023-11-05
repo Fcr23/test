@@ -1,0 +1,77 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="BRASIL", A&E
+https://tvembed.net/br/ae/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=45474437a61cafe4279aff830f8698b41341cd3d-efd7e1e106618b87e31e635694886519-1699035298-1699028098
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="BRASIL", AMC
+https://tvembed.net/br/amc/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=c03d37918b27810a3b3de6151994860eb82917cc-61227357e6fc85dfad76d00fe6e122ac-1699037047-1699029847
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="BRASIL", Cinemax
+https://tvembed.net/cinemax/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=2eef49fa2e6f58e918a5ef83552bd89ddff84faa-b5722d644f4879b39cfe851929a7754e-1699035374-1699028174
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="BRASIL", Comedy Central
+https://tvembed.net/br/comedy-central/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=4646a1d96b7eab88729787fd79fda4e0b7d7f19d-14ce80e91d6d1164e682a8349e0ed2fe-1699036766-1699029566
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="BRASIL", Disney Channel
+https://mapapapel.cf/hls1/disney/1699031390970.xml
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="BRASIL", FX
+https://tvembed.net/br/fx/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=bc264b476621ef3474ebda0776a2359c2da82207-cb4d17c2faf8f05f4cf449c91a4f7d9f-1699036937-1699029737
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="BRASIL", HBO
+https://tvembed.net/br/hbo/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=611a27c28111d49b2336b1b2f958bddcb7365551-dd3585a993663cbf48ac6dc5909b5289-1699036063-1699028863
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png" group-title="BRASIL", HBO 2
+https://tvembed.net/br/hbo2/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=23ae3641d92cca6fe74bc33aac589718288e4eaa-bb7ce52de7740cc6751c71d7d378ebd4-1699036296-1699029096
+#EXTINF:-1 tvg-id="124" tvg-logo="https://logodix.com/logo/789113.png" group-title="BRASIL", HBO Family
+https://s.m3u9.top/a2/hls1/hbofamily/__index.m3u8?mu3zAQc9HC3GbwJq=8BS-HZ8ZibwTMuJiMJw3QA&3U1G7qaTxrPbalZnEx=1699061101
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="BRASIL", HBO Mundi
+https://tvembed.net/br/hbo-mundi/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=85df535e59634d3ae05a34e51220de8e2a7cb2e3-0708830bae6f93cb3495c452866e8ec5-1699036493-1699029293
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="BRASIL", HBO Plus
+https://tvembed.net/br/hbo-plus/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=d9889e79109bcf4d5ed88e337ee9517a2605c290-dfbad8f4baf05657b85f2d0e79a470f0-1699036690-1699029490
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png" group-title="BRASIL", HBO Pop
+https://tvembed.net/hbo-pop/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=0802e7da3b302aacf38986011afdb9ba6e5ee25a-25b5b281a9fa7964878afad6bc6d8bb9-1699033986-1699026786
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRASIL", HBO Signature
+https://tvembed.net/br/hbo-signature/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=80973eccb07f400de058b0ac8cd4a2b67ba26079-74208e7fb5a3d3f490d190e95472036a-1699036587-1699029387
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="BRASIL", HBO xtreme
+https://tvembed.net/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=99eeb7bde609e5c3a027d43dcde389f6de3dafb0-4ca05b96c53f8c94f12e812a316fecd6-1699033778-1699026578
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="BRASIL", MegaPix
+https://tvembed.net/br/megapix/tracks-v1a1/mono.m3u8?remote=187.56.9.249&token=d0ec9eed21da75e9f0fa6693937024c868ac73d9-594cf59ed604a1a9f1b1826fe333ce76-1699204905-1699197705
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="BRASIL", Nickelodeon
+https://tvembed.net/br/nick/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=256a84926932a4b81251cc10fcb7603fbbdbe243-d77bc6a605c050ee5332135a7e79f932-1699037826-1699030626
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="BRASIL", Paramount Channel
+https://tvembed.net/br/paramount/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=be23bc7bbbfd0bcef57754868f1295264b0a6adb-940f6c1d24872fe4b6335c4aab0abeb7-1699038474-1699031274
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 2
+https://tvembed.net/premiere2/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=efb029a459851e4169327d60b96e8bbc87dcf4f2-fd54b8840db12ac005c44656680a8873-1699032048-1699024848
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 3
+https://s.m3u9.top/a2/hls1/premiere3/__index.m3u8?mu3zAQc9HC3GbwJq=ABfZCmVRb-8X3eaeqWztFQ&3U1G7qaTxrPbalZnEx=1699054044
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 4
+https://s.m3u9.top/a2/hls1/premiere4/__index.m3u8?mu3zAQc9HC3GbwJq=Vb1mcE7YpRqLGZZVw8qx4w&3U1G7qaTxrPbalZnEx=1699054168
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 5
+https://s.m3u9.top/a2/hls1/premiere5/__index.m3u8?mu3zAQc9HC3GbwJq=Is1RVR1FbZ7ekwC50mDOkw&3U1G7qaTxrPbalZnEx=1699054384
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 6
+https://s.m3u9.top/a2/hls1/premiere6/__index.m3u8?mu3zAQc9HC3GbwJq=SyRPkvmgmP_i4QSJt870hA&3U1G7qaTxrPbalZnEx=1699054560
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 7
+https://s.m3u9.top/a2/hls1/premiere7/__index.m3u8?mu3zAQc9HC3GbwJq=jnWldLAd2lb4ezGVjNLTOA&3U1G7qaTxrPbalZnEx=1699054726
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 8
+https://s.m3u9.top/a2/hls1/premiere7/__index.m3u8?mu3zAQc9HC3GbwJq=hmVwTRg9GnoDrevGU33qfg&3U1G7qaTxrPbalZnEx=1699054839
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere Clubes
+https://tvembed.net/br/premiere-op2/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=2dca021f01f5bdcb0a69b8a3af913ed893659ce4-9acbd67241ce53831abc1b3fce038a61-1699031715-1699024515
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="BRASIL", Sony Channel
+https://tvembed.net/sony/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=d5baa3772c7b134ec6a7ccf8c19d26a64bb035e6-44d0ec4be0acfc6e00791d12fa06af8e-1699034332-1699027132
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="BRASIL", Space
+https://tvembed.net/br/space/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=38f4deaec322068ff1051cccb3c7c2588cb8fb07-7e8985facb28ff31a8f4f8faf922ebdc-1699033566-1699026366
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="BRASIL", SporTV
+https://server11.net/sportv/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=c8880c87429fb8e60b6cc272097bf45c95c4157e-65d9eb8530f5800692107ad45d544744-1699033139-1699025939
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="BRASIL", Star Channel
+https://tvembed.net/br/star/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=e67ebd12659b30bf17f3cb2a1e6b01e0073d2296-bdd0c5bff6c1a2ed1326e161d821a41a-1699035634-1699028434
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Telecine_Action_%282019%29.svg" group-title="BRASIL", Telecine Action
+https://tvembed.net/tc-action/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=6029622d4849c44dadda77b4a9d14a925ad6c6e2-77d487847fa1ccfaf36814efb69a3279-1699034480-1699027280
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telecine_Fun_%282019%29.svg" group-title="BRASIL", Telecine Cult
+https://tvembed.net/tc-cult/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=3103d0561cbe5eafd2de26c18ce4be3ed636d064-e03bc077d1381d80fb25be3c2d457d51-1699034812-1699027612
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png" group-title="BRASIL", Telecine Fun
+https://tvembed.net/tc-fun/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=cc34ba13cc6b0c84ae5c37f0728a524c4dd7d231-56b540df9289c08d00d6e4fedb4db900-1699034942-1699027742
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Telecine_Pipoca_%282019%29.svg/2231px-Telecine_Pipoca_%282019%29.svg.png" group-title="BRASIL", Telecine Pipoca
+https://tvembed.net/tc-pipoca/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=a65f9a91019073a49de8b26033e873fc5a415075-50656c8f595f86cd9895e72f05ff7be6-1699035066-1699027866
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282019%29.svg" group-title="BRASIL", Telecine Premium
+https://tvembed.net/br/tc-premium/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=86a1998d67859a0ef56d29142f51051ec8920efc-0e5b6a6e5cba48687bcf0f8a72dd1a20-1699035164-1699027964
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Telecine_Touch_%282019%29.svg" group-title="BRASIL", Telecine Touch
+https://tvembed.net/br/tc-touch/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=b9f090e33d0cd2c2485a203283bace7c974ba452-5a63348fdf8dce918d6e5cb63a185588-1699035250-1699028050
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="BRASIL", TNT Séries
+https://tvembed.net/tnt-serie/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=e013dc44e9bdc5f15e70d44083b543875cadd4ec-940bf41c8d7485a2dbbbb8d9bdf8da09-1699033395-1699026195
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="BRASIL", Universal TV
+https://s.m3u9.top/a2/hls1/universal/__index.m3u8?mu3zAQc9HC3GbwJq=GdQoWFzM8mHTNifPxMjwOA&3U1G7qaTxrPbalZnEx=1699059150
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRASIL", Warner TV
+https://tvembed.net/warner/tracks-v1a1/mono.m3u8?remote=191.193.100.153&token=de99c0d3623509f9191d2967ef038e3aae37d060-99e7d7fc89ceb3c1cc87ae13be427c28-1699031211-1699024011

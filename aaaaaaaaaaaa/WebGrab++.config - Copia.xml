@@ -1,0 +1,42 @@
+﻿
+ <channels>
+ <channel update="i" site="meuguia.tv" site_id="MDO" xmltv_id="A&amp;E">A&amp;E</channel>
+ <channel update="i" site="lineup.net.br" site_id="310177" xmltv_id="AMC">AMC</channel>
+ <channel update="i" site="lineup.net.br" site_id="860020" xmltv_id="Cinemax">Cinemax</channel>
+ <channel update="i" site="lineup.net.br" site_id="849602" xmltv_id="Comedy Central">Comedy Central</channel>
+ <channel update="i" site="lineup.net.br" site_id="199977" xmltv_id="Disney Channel">Disney Channel</channel>
+ <channel update="i" site="meuguia.tv" site_id="CFX" xmltv_id="FX">FX</channel>
+ <channel update="i" site="meuguia.tv" site_id="HBO" xmltv_id="HBO">HBO</channel>
+ <channel update="i" site="meuguia.tv" site_id="HB2" xmltv_id="HBO 2">HBO 2</channel>
+ <channel update="i" site="meuguia.tv" site_id="HFA" xmltv_id="HBO Family">HBO Family</channel>
+ <channel update="i" site="meuguia.tv" site_id="MXE" xmltv_id="HBO Mundi">HBO Mundi</channel>
+ <channel update="i" site="meuguia.tv" site_id="HPL" xmltv_id="HBO Plus">HBO Plus</channel>
+ <channel update="i" site="meuguia.tv" site_id="MHD" xmltv_id="HBO Pop">HBO Pop</channel>
+ <channel update="i" site="meuguia.tv" site_id="HFE" xmltv_id="HBO Signature">HBO Signature</channel>
+ <channel update="i" site="meuguia.tv" site_id="MAP" xmltv_id="HBO Xtreme">HBO Xtreme</channel>
+ <channel update="i" site="lineup.net.br" site_id="247452" xmltv_id="Megapix">Megapix</channel>
+ <channel update="i" site="meuguia.tv" site_id="NIC" xmltv_id="Nickelodeon">Nickelodeon</channel>
+ <channel update="i" site="lineup.net.br" site_id="952547" xmltv_id="Paramount Channel">Paramount Channel</channel>
+ <channel update="i" site="netcombo.com.br" site_id="1360##premiere_2" xmltv_id="Premiere 2">Premiere 2</channel>
+ <channel update="i" site="netcombo.com.br" site_id="1361##premiere_3" xmltv_id="Premiere 3">Premiere 3</channel>
+ <channel update="i" site="netcombo.com.br" site_id="1362##premiere_4" xmltv_id="Premiere 4">Premiere 4</channel>
+ <channel update="i" site="netcombo.com.br" site_id="1363##premiere_5" xmltv_id="Premiere 5">Premiere 5</channel>
+ <channel update="i" site="netcombo.com.br" site_id="1364##premiere_6" xmltv_id="Premiere 6">Premiere 6</channel>
+ <channel update="i" site="netcombo.com.br" site_id="693##premiere_7" xmltv_id="Premiere 7">Premiere 7</channel>
+ <channel update="i" site="netcombo.com.br" site_id="1014##mosaico_multijogos" xmltv_id="Premiere 8">Premiere 8</channel>
+ <channel update="i" site="meuguia.tv" site_id="121" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+ <channel update="i" site="lineup.net.br" site_id="538255" xmltv_id="Sony Channel">Sony Channel</channel>
+ <channel update="i" site="lineup.net.br" site_id="107575" xmltv_id="Space">Space</channel>
+ <channel update="i" site="lineup.net.br" site_id="811805" xmltv_id="SporTV">SporTV</channel>
+ <channel update="i" site="meuguia.tv" site_id="TCM" xmltv_id="TCM - Turner Classic Movies">TCM - Turner Classic Movies</channel>
+ <channel update="i" site="meuguia.tv" site_id="TC2" xmltv_id="Telecine Action">Telecine Action</channel>
+ <channel update="i" site="meuguia.tv" site_id="TC5" xmltv_id="Telecine Cult">Telecine Cult</channel>
+ <channel update="i" site="meuguia.tv" site_id="TC6" xmltv_id="Telecine Fun">Telecine Fun</channel>
+ <channel update="i" site="meuguia.tv" site_id="TC4" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+ <channel update="i" site="meuguia.tv" site_id="TC1" xmltv_id="Telecine Premium">Telecine Premium</channel>
+ <channel update="i" site="meuguia.tv" site_id="TC3" xmltv_id="Telecine Touch">Telecine Touch</channel>
+ <channel update="i" site="lineup.net.br" site_id="428188" xmltv_id="TNT Séries">TNT Séries</channel>
+ <channel update="i" site="lineup.net.br" site_id="504464" xmltv_id="Universal TV">Universal TV</channel>
+ <channel update="i" site="meuguia.tv" site_id="WBT" xmltv_id="Warner TV">Warner TV</channel>
+</channels>
+</site>
