@@ -1,0 +1,109 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="BRASIL", A&E
+http://cdn.connectbr.com.br/AE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="BRASIL", AMC
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1200px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="BRASIL", Cartoon Network
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31479.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="BRASIL", Cinemax
+http://bdtb.io:80/378724/pcapQ5/71833.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="BRASIL", Comedy Central
+http://esrv.cc:80/maquegod/126900Ah/31870
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="BRASIL", Disney Channel
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31483.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="BRASIL", FX
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/2110px-Globo_logo_%282020-%29.svg.png" group-title="BRASIL", Globo
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/32358.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="BRASIL", HBO
+http://suatv.fun:80/646319186530/017891059193/415347
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png" group-title="BRASIL", HBO 2
+http://suatv.fun:80/646319186530/017891059193/415350
+#EXTINF:-1 tvg-id="124" tvg-logo="https://logodix.com/logo/789113.png" group-title="BRASIL", HBO Family
+http://suatv.fun:80/646319186530/017891059193/415353
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="BRASIL", HBO Mundi
+http://suatv.fun:80/646319186530/017891059193/415362
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="BRASIL", HBO Plus
+http://suatv.fun:80/646319186530/017891059193/415356
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png" group-title="BRASIL", HBO Pop
+http://suatv.fun:80/646319186530/017891059193/415365
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRASIL", HBO Signature
+http://suatv.fun:80/646319186530/017891059193/415359
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="BRASIL", HBO xtreme
+http://suatv.fun:80/646319186530/017891059193/415368
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="BRASIL", MegaPix
+http://suatv.fun:80/646319186530/017891059193/415570
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="BRASIL", Nickelodeon
+http://suatv.fun:80/646319186530/017891059193/415209
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="BRASIL", Paramount Channel
+http://suatv.fun:80/646319186530/017891059193/415573
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 2
+http://suatv.fun:80/646319186530/017891059193/415713
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 3
+http://suatv.fun:80/646319186530/017891059193/415716
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 4
+http://suatv.fun:80/646319186530/017891059193/415719
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 5
+http://suatv.fun:80/646319186530/017891059193/415722
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 6
+http://suatv.fun:80/646319186530/017891059193/415725
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 7
+http://suatv.fun:80/646319186530/017891059193/415728
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 8
+http://bdtb.io:80/378724/pcapQ5/180158.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere Clubes
+http://suatv.fun:80/646319186530/017891059193/415710
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="BRASIL", SBT
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197964
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="BRASIL", Sony Channel
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="BRASIL", Space
+http://suatv.fun:80/646319186530/017891059193/415582
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="BRASIL", SporTV
+http://suatv.fun:80/646319186530/017891059193/495688
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="BRASIL", Star Channel
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31285.m3u8
+#EXTINF:-1 tvg-logo="https://assine.vexpert.com.br/files/2022/4/Telecine_Action_2.png" group-title="BRASIL", Telecine Action
+http://suatv.fun:80/646319186530/017891059193/415329
+#EXTINF:-1 tvg-logo="https://cms.emidgroup.com.br/turbonet/arquivos/canais_streaming/imagens/196/original/tccultbpng.png" group-title="BRASIL", Telecine Cult
+http://suatv.fun:80/646319186530/017891059193/415332
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png" group-title="BRASIL", Telecine Fun
+http://suatv.fun:80/646319186530/017891059193/415335
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Telecine_Pipoca_%282019%29.svg/2231px-Telecine_Pipoca_%282019%29.svg.png" group-title="BRASIL", Telecine Pipoca
+http://suatv.fun:80/646319186530/017891059193/415338
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/redeglobo/images/3/33/Tcpremiumb.png/revision/latest?cb=20200817020705&path-prefix=pt" group-title="BRASIL", Telecine Premium
+http://suatv.fun:80/646319186530/017891059193/415341
+#EXTINF:-1 tvg-logo="https://assine.vexpert.com.br/files/2022/4/Telecine_Touch_3.png" group-title="BRASIL", Telecine Touch
+http://suatv.fun:80/646319186530/017891059193/415344
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="BRASIL", TNT
+http://suatv.fun:80/646319186530/017891059193/415597
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="BRASIL", TNT Séries
+http://suatv.fun:80/646319186530/017891059193/415601
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="BRASIL", Universal TV
+http://suatv.fun:80/646319186530/017891059193/415585
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRASIL", Warner TV
+http://suatv.fun:80/646319186530/017891059193/415606
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Batman Animated Series
+http://suatv.fun:80/646319186530/017891059193/486546
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Chapolin Colorado
+http://suatv.fun:80/646319186530/017891059193/486564
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Chaves
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31676.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Dois Homens e Meio
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31684.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5sBkdYt/24hyoutubeeseries.png" group-title="CANAIS 24H", Eu, a Patroa e as Crianças
+http://suatv.fun:80/646319186530/017891059193/486925
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Futurama
+http://suatv.fun:80/646319186530/017891059193/486621
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Hora de Aventura
+http://suatv.fun:80/646319186530/017891059193/486640
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", iCarly
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31708.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Os Simpsons
+http://suatv.fun:80/646319186530/017891059193/486680
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Pegadinhas
+http://suatv.fun:80/646319186530/017891059193/486987
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Pica-Pau
+http://suatv.fun:80/646319186530/017891059193/486699
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Super-Choque
+http://suatv.fun:80/646319186530/017891059193/486718
