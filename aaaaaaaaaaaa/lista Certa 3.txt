@@ -49,7 +49,7 @@ http://suatv.fun:80/646319186530/017891059193/415722
 http://suatv.fun:80/646319186530/017891059193/415725
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 7
 http://suatv.fun:80/646319186530/017891059193/415728
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Mosaíco do Canais Premiere
 http://bdtb.io:80/378724/pcapQ5/180158.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere Clubes
 http://suatv.fun:80/646319186530/017891059193/415710
