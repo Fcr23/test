@@ -123,3 +123,13 @@ http://suatv.fun:80/646319186530/017891059193/486699
 http://suatv.fun:80/646319186530/017891059193/486718
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg" group-title="Filmes", O Iluminado
 https://be4242.rcr52.ams03.cdn112.com/hls2/01/03165/r055yegbjvpt_o/index-v1-a1.m3u8?t=FJYofWJZhlUw0TK9ffcBKh23LRvFEMk_B7NBoOngN2c&s=1701185687&e=43200&f=21944477&srv=01&asn=27699&sp=2000
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sUi3a3BTTku0vyLjJQgKtiWCok7.jpg" group-title="Filmes", Truque de Mestre
+https://2565136225.tapecontent.net/radosgw/26PMB80D1wuZkVk/B47KaoUNe7ixbkTJ74usgmXqYakLimR0OY_NAm2LC1oj8YVnInKwvqpPlRVameiT8vqt6pl8yLNafQQNnJh5IZJ1vJBA_xkGzzLSvvE1kAsFIdymH8eOzincatANBIXosxLGW1oSjkGmniVw2nZPgE3_jxc7PLoVRkitN1GbNGMETflACPgUK8l3Rgb30Fz6kvpQyKv3yOCQfg39pOCCLe2YVYYKt0DPaMFgclLy7zfIc99cwBQGD-EFoEWQWeDwDc7UZS81mag06rz4l3HXXdNAJbJ-j5qEQoxkKTqDa-bJsZckOkExoYhglPk/truque-de-mestre-dublado-www.encontrei.tv?stream=1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/1qDivmsYL79dQZngyT3oKd4L9tA.jpg" group-title="Filmes", Shazam! Fúria dos Deuses
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/03365/ydnd8cig75o9_x/index-v1-a1.m3u8?t=jV5izvSzJ7Tqa3fI8ldTDeHhp9HohNelYOTEIwCeOlc&s=1701187254&e=43200&f=18921665&srv=23&asn=27699&sp=2500
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7178I9T3a27Td5kyjrT207F3hwP.jpg" group-title="Filmes", Baywatch S.O.S Malibu
+https://be4235.rcr32.ams02.cdn112.com/hls2/02/02996/wggue0oxaid7_o/index-v1-a1.m3u8?t=3fWpW5FK0SiN_Zq9Rawc_TNncRAijICW-CnoAso_q2g&s=1701187414&e=43200&f=24911352&srv=26&asn=27699&sp=2000
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg" group-title="Filmes", Trem Bala
+https://be6721.rcr72.waw04.cdn112.com/hls2/03/03012/30eygxlzemfx_o/index-v1-a1.m3u8?t=xEi_0eTjnFw5STMVMPrQfgeBVlQNX-vgkcpLFYZa8Ds&s=1701187549&e=43200&f=15896347&srv=30&asn=27699&sp=2000
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="Filmes", Velozes & Furiosos: Hobbs and Shaw
+https://be4242.rcr52.ams03.cdn112.com/hls2/02/02996/h567tfsb3yqa_o/index-v1-a1.m3u8?t=ACXCgIe8Chqe-9Ce5AuiU6qBQuFIUr0dUYT1c8WfI1g&s=1701187711&e=43200&f=24997985&srv=26&asn=27699&sp=2000
