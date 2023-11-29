@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Crazy EPG 0.8.4 - BEVY Software" generator-info-url="https://www.bevy.be">
-<channel id="AEBrazil.br"><display-name>AandE</display-name><url>https://mi.tv</url></channel>
+<channel id="AEBrazil.br"><display-name>A&E</display-name><url>https://mi.tv</url></channel>
 <channel id="AMCBrazil.br"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
 <channel id="CartoonNetworkBrazil.br"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
 <channel id="CinemaxBrazil.br"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
