@@ -121,15 +121,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf8886100076
 http://suatv.fun:80/646319186530/017891059193/486699
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Super Shock
 http://suatv.fun:80/646319186530/017891059193/486718
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg" group-title="Filmes", Entre Facas e Segredos
+https://download2303.mediafire.com/cy35g76aimgggOOwlR7qnGhjd-XJr_1qh6rIBYAAyW-lCDrgbi1rnJkVOHKzivuvv3evXNvUkFpJT7OlhN5IhzThcudyRDiSOXzy9lrB18aFzwUTp6PTid9EHUfuHSz-1ciT-JEfC4Ubb0gCZsRBuOiVd5GBC4pAVRxu7rDQNVNZ_aY/p3rh1v4psj7a9m9/32c5b540d846618901f13d164f42f1d3.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg" group-title="Filmes", O Iluminado
 https://be4242.rcr52.ams03.cdn112.com/hls2/01/03165/r055yegbjvpt_o/index-v1-a1.m3u8?t=FJYofWJZhlUw0TK9ffcBKh23LRvFEMk_B7NBoOngN2c&s=1701185687&e=43200&f=21944477&srv=01&asn=27699&sp=2000
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sUi3a3BTTku0vyLjJQgKtiWCok7.jpg" group-title="Filmes", Truque de Mestre
-https://2565136225.tapecontent.net/radosgw/26PMB80D1wuZkVk/B47KaoUNe7ixbkTJ74usgmXqYakLimR0OY_NAm2LC1oj8YVnInKwvqpPlRVameiT8vqt6pl8yLNafQQNnJh5IZJ1vJBA_xkGzzLSvvE1kAsFIdymH8eOzincatANBIXosxLGW1oSjkGmniVw2nZPgE3_jxc7PLoVRkitN1GbNGMETflACPgUK8l3Rgb30Fz6kvpQyKv3yOCQfg39pOCCLe2YVYYKt0DPaMFgclLy7zfIc99cwBQGD-EFoEWQWeDwDc7UZS81mag06rz4l3HXXdNAJbJ-j5qEQoxkKTqDa-bJsZckOkExoYhglPk/truque-de-mestre-dublado-www.encontrei.tv?stream=1
+https://download2268.mediafire.com/7wgb3t0ewtvgynjcM9hDd2pdk5Lkdd0XWoV3TIynGQsmSzPnLzwbB0qneXwVzTay5CjmdMy-2fx_uE8vL7lguqyZu7nrqueZryRlr3bnTemhKM-GuWDE_Amoxhi9hWYBQgHuuBEhT24dqh9ZjbyN_HVkkV0vuNXg9YMO_oj1_l-8NmY/a8rergu2u7t7yxk/ea653121b2e34464d6a9dc0b4232ab4a.mp4
+#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2016/04/truquedemestre2_24.jpg" group-title="Filmes", Truque de Mestre 2
+https://download854.mediafire.com/krrn7d68nang6U0AvZVEnytePpIkQ6mEIRE38jEmsj0NMfmN0sqFvnj5woe_ZbzguFu1NkKal6T7tmcbLfW13koJCCbw1KMmTSLi6VRl4mkYBw1tgCR-rCdqQaj8EUFJKzHuJwy_zZQ9jmir9EOOKt5rLpMs4k1ddjYXQHTWZjPlnEs/uywhj25cdaya31z/470d1cd218eab40ae3c23ba5e92d69b4.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/1qDivmsYL79dQZngyT3oKd4L9tA.jpg" group-title="Filmes", Shazam! Fúria dos Deuses
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/03365/ydnd8cig75o9_x/index-v1-a1.m3u8?t=jV5izvSzJ7Tqa3fI8ldTDeHhp9HohNelYOTEIwCeOlc&s=1701187254&e=43200&f=18921665&srv=23&asn=27699&sp=2500
+https://download2331.mediafire.com/jtbtwj7ttv8gG1t33iQ3f8lZyDQGZGjLcWyuqM6bvsLyCvollr-vzLfQakWg978Ewgs1QSafhVzzeZpsIspRQUgOO_fXuVZf8gMolo5RRWXJsHCBb4P6VAqHlXjjczwORJ5h5Q3IrRvHIJCdPf9opYcW7Hjp5jvQd-nKTJQFf6_1Lg/94ipxvjmqq7mzs7/350a5797726b42f5a274767cbcd00b18.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7178I9T3a27Td5kyjrT207F3hwP.jpg" group-title="Filmes", Baywatch S.O.S Malibu
-https://be4235.rcr32.ams02.cdn112.com/hls2/02/02996/wggue0oxaid7_o/index-v1-a1.m3u8?t=3fWpW5FK0SiN_Zq9Rawc_TNncRAijICW-CnoAso_q2g&s=1701187414&e=43200&f=24911352&srv=26&asn=27699&sp=2000
+https://download2280.mediafire.com/2dbrl9ab34vgQsZ6Xk6fLD-2Zza4aX-BisTcr0tKc4V4qmf2x7nBSm-dbJ5szj2EjzUsaBIR6LD108HWLHd-WrQtdTPLAwwLkNy1H1XGM9FgkV_G--YujmgSIpCj6YK-MVygsoYXqFy9hYh4VC8W_NYox-YS94XutaEBIgqdqsh3s1c/qjsff0qlhqufedl/b0bd41b7ff26e86d43d1fb386edd4637.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg" group-title="Filmes", Trem Bala
-https://be6721.rcr72.waw04.cdn112.com/hls2/03/03012/30eygxlzemfx_o/index-v1-a1.m3u8?t=xEi_0eTjnFw5STMVMPrQfgeBVlQNX-vgkcpLFYZa8Ds&s=1701187549&e=43200&f=15896347&srv=30&asn=27699&sp=2000
+https://download2296.mediafire.com/mchst3xpc9fgJKi7mgexfknETJdfGis2xklljn-76hR99VGKENKx7DGNs4VjnML_gPGsw2JaIotG5hXyLcmD3VTw5weKUDyk5oBGfGzwMYWzFJlsUVBuvbQHbR68l8ysLa7VBXCwe5xTKxsaYyVOp5-k9Z6aMPk1t9m-l6_Q3UxGvg/xcojnwg90dzbief/d8f6be8ddb962dab90bb3d07dd6a9b88.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="Filmes", Velozes & Furiosos: Hobbs and Shaw
-https://be4242.rcr52.ams03.cdn112.com/hls2/02/02996/h567tfsb3yqa_o/index-v1-a1.m3u8?t=ACXCgIe8Chqe-9Ce5AuiU6qBQuFIUr0dUYT1c8WfI1g&s=1701187711&e=43200&f=24997985&srv=26&asn=27699&sp=2000
+https://download2266.mediafire.com/mctfhfzik3eg19BC30NFjZaFeUt189UsFhhBmnvWVLNy4gSVB_r2S9UBNML11Axba4LJYizO2Am4T8Ecib5EhTjM1jx2bBOV1C0bbFLi5qTO6m5kpsE4B-t0kLh4Y_opMri_gRXMsALME4QUQklPpEk152tjO3uGFB4DyBdsy9ly2w/akn12xzbe6lkk5h/3cc210605af60e0324e340b62df52f1a.mp4
