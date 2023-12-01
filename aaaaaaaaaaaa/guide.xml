@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Crazy EPG 0.8.4 - BEVY Software" generator-info-url="https://www.bevy.be">
-<channel id="AE.br"><display-name>AandE</display-name><url>https://mi.tv</url></channel>
+<channel id="AE.br"><display-name>A&E</display-name><url>https://mi.tv</url></channel>
 <channel id="AMC.br"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
 <channel id="CartoonNetwork.br"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
 <channel id="Cinemax.br"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
@@ -8,7 +8,7 @@
 <channel id="DisneyChannel.br"><display-name>Disney Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="FX.br"><display-name>FX</display-name><url>https://mi.tv</url></channel>
 <channel id="HBO.br"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
-<channel id="HBO2.br"><display-name>HBO2 </display-name><url>https://mi.tv</url></channel>
+<channel id="HBO2.br"><display-name>HBO 2</display-name><url>https://mi.tv</url></channel>
 <channel id="HBOFamily.br"><display-name>HBO Family</display-name><url>https://mi.tv</url></channel>
 <channel id="HBOMundi.br"><display-name>HBO Mundi</display-name><url>https://mi.tv</url></channel>
 <channel id="HBOPlus.br"><display-name>HBO Plus</display-name><url>https://mi.tv</url></channel>
@@ -32,8 +32,8 @@
 <channel id="SonyChannel.br"><display-name>Sony Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="Space.br"><display-name>Space</display-name><url>https://mi.tv</url></channel>
 <channel id="SporTV.br"><display-name>SporTV</display-name><url>https://mi.tv</url></channel>
-<channel id="SporTV2.br"><display-name>SporTV2</display-name><url>https://mi.tv</url></channel>
-<channel id="SporTV3.br"><display-name>SporTV3</display-name><url>https://mi.tv</url></channel>
+<channel id="SporTV2.br"><display-name>SporTV 2</display-name><url>https://mi.tv</url></channel>
+<channel id="SporTV3.br"><display-name>SporTV 3</display-name><url>https://mi.tv</url></channel>
 <channel id="StarChannel.br"><display-name>Star Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="TelecineAction.br"><display-name>Telecine Action</display-name><url>https://mi.tv</url></channel>
 <channel id="TelecineCult.br"><display-name>Telecine Cult</display-name><url>https://mi.tv</url></channel>
