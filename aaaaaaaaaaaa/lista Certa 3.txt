@@ -29,7 +29,7 @@ http://suatv.fun:80/646319186530/017891059193/415356
 http://suatv.fun:80/646319186530/017891059193/415365
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRASIL", HBO Signature
 http://suatv.fun:80/646319186530/017891059193/415359
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="BRASIL", HBO xtreme
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="BRASIL", HBO Xtreme
 http://suatv.fun:80/646319186530/017891059193/415368
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="BRASIL", MegaPix
 http://suatv.fun:80/646319186530/017891059193/415570
