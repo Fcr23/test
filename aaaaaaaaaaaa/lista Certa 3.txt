@@ -3,6 +3,10 @@
 http://cdn.connectbr.com.br/AE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="BRASIL", AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://s2-redeglobo.glbimg.com/x9zJJ-_v0_DODTYE2bYrQC_LWjA=/0x0:7000x3939/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2023/a/9/lNCLucSriLJ7nMT8ZG2Q/logo-principal-3d.jpg" group-title="BRASIL", BBB24 (Câmera 01)
+https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=v-Mf4n6jCYxTutMTX1Iuuw&3U1G7qaTxrPbalZnEx=1704845728
+#EXTINF:-1 tvg-logo="https://s2-redeglobo.glbimg.com/x9zJJ-_v0_DODTYE2bYrQC_LWjA=/0x0:7000x3939/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2023/a/9/lNCLucSriLJ7nMT8ZG2Q/logo-principal-3d.jpg" group-title="BRASIL", BBB24 (Câmera 02)
+https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=bywZaWwBOqUEhb1wvZpzNw&3U1G7qaTxrPbalZnEx=1704845861
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1200px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="BRASIL", Cartoon Network
 http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31479.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="BRASIL", Cinemax
@@ -29,7 +33,7 @@ http://suatv.fun:80/646319186530/017891059193/415356
 http://suatv.fun:80/646319186530/017891059193/415365
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRASIL", HBO Signature
 http://suatv.fun:80/646319186530/017891059193/415359
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="BRASIL", HBO Xtreme
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="BRASIL", HBO xtreme
 http://suatv.fun:80/646319186530/017891059193/415368
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="BRASIL", MegaPix
 http://suatv.fun:80/646319186530/017891059193/415570
@@ -49,7 +53,7 @@ http://suatv.fun:80/646319186530/017891059193/415722
 http://suatv.fun:80/646319186530/017891059193/415725
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 7
 http://suatv.fun:80/646319186530/017891059193/415728
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Mosaíco do Canais Premiere
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere 8
 http://bdtb.io:80/378724/pcapQ5/180158.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", Premiere Clubes
 http://suatv.fun:80/646319186530/017891059193/415710
@@ -58,7 +62,7 @@ http://208.115.225.174:14460/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="BRASIL", SBT
 https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="BRASIL", Sony Channel
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+https://s.m3u9.top/a2/hls1/sony/__index.m3u8?mu3zAQc9HC3GbwJq=0kBiZf_4L5V21cvmxCnnCg&3U1G7qaTxrPbalZnEx=1704845904
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="BRASIL", Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="BRASIL", Space
@@ -89,8 +93,42 @@ http://suatv.fun:80/646319186530/017891059193/415597
 http://suatv.fun:80/646319186530/017891059193/415601
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="BRASIL", Universal TV
 http://suatv.fun:80/646319186530/017891059193/415585
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRASIL", Warner Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRASIL", Warner TV
 http://suatv.fun:80/646319186530/017891059193/415606
+#EXTINF:-1 tvg-logo="x" group-title="BRASIL", 01
+https://s.m3u9.top/a2/hls1/sexhot/__index.m3u8?mu3zAQc9HC3GbwJq=Eq99rTtr4YRpsNIHX5aihQ&3U1G7qaTxrPbalZnEx=1704845415
+#EXTINF:-1 tvg-logo="x" group-title="BRASIL", 02
+https://s.m3u9.top/a2/hls1/sexprive/__index.m3u8?mu3zAQc9HC3GbwJq=QteFEkqV4LYdcu6LkSz9uA&3U1G7qaTxrPbalZnEx=1704846017
+#EXTINF:-1 tvg-logo="x" group-title="BRASIL", 03
+https://m3u8.vg/playlist.m3u8?server=RSServer01&subfolder=ondemand&vid=c0hIMENkYmVVMVVZRWpoczNGSmk4d3ZDak5oNkZ4UDNQeUh2ZmhIajVmY0grMjBLbWk4SS9JQm5UZWF0SDZDYVhqcEZKZz09
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg" group-title="Filmes", Entre Facas e Segredos
+https://download2303.mediafire.com/cy35g76aimgggOOwlR7qnGhjd-XJr_1qh6rIBYAAyW-lCDrgbi1rnJkVOHKzivuvv3evXNvUkFpJT7OlhN5IhzThcudyRDiSOXzy9lrB18aFzwUTp6PTid9EHUfuHSz-1ciT-JEfC4Ubb0gCZsRBuOiVd5GBC4pAVRxu7rDQNVNZ_aY/p3rh1v4psj7a9m9/32c5b540d846618901f13d164f42f1d3.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg" group-title="Filmes", O Iluminado
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03165/r055yegbjvpt_o/index-v1-a1.m3u8?t=FJYofWJZhlUw0TK9ffcBKh23LRvFEMk_B7NBoOngN2c&s=1701185687&e=43200&f=21944477&srv=01&asn=27699&sp=2000
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sUi3a3BTTku0vyLjJQgKtiWCok7.jpg" group-title="Filmes", Truque de Mestre
+https://download2268.mediafire.com/7wgb3t0ewtvgynjcM9hDd2pdk5Lkdd0XWoV3TIynGQsmSzPnLzwbB0qneXwVzTay5CjmdMy-2fx_uE8vL7lguqyZu7nrqueZryRlr3bnTemhKM-GuWDE_Amoxhi9hWYBQgHuuBEhT24dqh9ZjbyN_HVkkV0vuNXg9YMO_oj1_l-8NmY/a8rergu2u7t7yxk/ea653121b2e34464d6a9dc0b4232ab4a.mp4
+#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2016/04/truquedemestre2_24.jpg" group-title="Filmes", Truque de Mestre: O 2° Ato
+https://download854.mediafire.com/krrn7d68nang6U0AvZVEnytePpIkQ6mEIRE38jEmsj0NMfmN0sqFvnj5woe_ZbzguFu1NkKal6T7tmcbLfW13koJCCbw1KMmTSLi6VRl4mkYBw1tgCR-rCdqQaj8EUFJKzHuJwy_zZQ9jmir9EOOKt5rLpMs4k1ddjYXQHTWZjPlnEs/uywhj25cdaya31z/470d1cd218eab40ae3c23ba5e92d69b4.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/1qDivmsYL79dQZngyT3oKd4L9tA.jpg" group-title="Filmes", Shazam! Fúria dos Deuses
+https://download2331.mediafire.com/jtbtwj7ttv8gG1t33iQ3f8lZyDQGZGjLcWyuqM6bvsLyCvollr-vzLfQakWg978Ewgs1QSafhVzzeZpsIspRQUgOO_fXuVZf8gMolo5RRWXJsHCBb4P6VAqHlXjjczwORJ5h5Q3IrRvHIJCdPf9opYcW7Hjp5jvQd-nKTJQFf6_1Lg/94ipxvjmqq7mzs7/350a5797726b42f5a274767cbcd00b18.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7178I9T3a27Td5kyjrT207F3hwP.jpg" group-title="Filmes", Baywatch S.O.S Malibu
+https://download2280.mediafire.com/2dbrl9ab34vgQsZ6Xk6fLD-2Zza4aX-BisTcr0tKc4V4qmf2x7nBSm-dbJ5szj2EjzUsaBIR6LD108HWLHd-WrQtdTPLAwwLkNy1H1XGM9FgkV_G--YujmgSIpCj6YK-MVygsoYXqFy9hYh4VC8W_NYox-YS94XutaEBIgqdqsh3s1c/qjsff0qlhqufedl/b0bd41b7ff26e86d43d1fb386edd4637.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg" group-title="Filmes", Trem Bala
+https://download2296.mediafire.com/mchst3xpc9fgJKi7mgexfknETJdfGis2xklljn-76hR99VGKENKx7DGNs4VjnML_gPGsw2JaIotG5hXyLcmD3VTw5weKUDyk5oBGfGzwMYWzFJlsUVBuvbQHbR68l8ysLa7VBXCwe5xTKxsaYyVOp5-k9Z6aMPk1t9m-l6_Q3UxGvg/xcojnwg90dzbief/d8f6be8ddb962dab90bb3d07dd6a9b88.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="Filmes", Velozes & Furiosos: Hobbs and Shaw
+https://download2266.mediafire.com/mctfhfzik3eg19BC30NFjZaFeUt189UsFhhBmnvWVLNy4gSVB_r2S9UBNML11Axba4LJYizO2Am4T8Ecib5EhTjM1jx2bBOV1C0bbFLi5qTO6m5kpsE4B-t0kLh4Y_opMri_gRXMsALME4QUQklPpEk152tjO3uGFB4DyBdsy9ly2w/akn12xzbe6lkk5h/3cc210605af60e0324e340b62df52f1a.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArWn6gCi61b3b3hclD2L0LOk66k.jpg" group-title="Filmes", A Liga da Justiça de Zack Snyder (Dublado)
+https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMENkYlpVVlVhR2podDhucE8weFBvdmY1WU1CL0hIREk9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArWn6gCi61b3b3hclD2L0LOk66k.jpg" group-title="Filmes", A Liga da Justiça de Zack Snyder (Legendado)
+https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMENkYllVbEFWRWpodDhucE8weFBvdmY1WU1CL0hIRExQWGk0PQ==
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/The-Office-Logo.png" group-title="Séries", The Office: 5° Temporada, Episódio 06
+https://link.encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.link/player3/server11hlb.php?vid=c0hIMER0bmZVbFVmRURoMS9YRkN3eEw0czQwcUpnR3Zidz09
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fOfGPZx47Q458WPxH3jQHcItvao.jpg" group-title="Séries", Percy Jackson E Os Olímpianos: Episódio 01 - Sem querer, transformo em pó a minha professora de álgebra
+https://m3u8.vg/playlist.m3u8?server=RCServer22&subfolder=ondemand&vid=c0hIMENkYmVWMU1aR3poeDhHeEgyUTNvck81ZEpoN05GQzNUVlRyZXBvQWozQ1Z2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fOfGPZx47Q458WPxH3jQHcItvao.jpg" group-title="Séries", Percy Jackson E Os Olímpianos: Episódio 02 - Minha transformação em Senhor Supremo do Banheiro
+https://m3u8.vg/playlist.m3u8?server=RCServer22&subfolder=ondemand&vid=c0hIMENkYmVXRnNmR3poeDhHeEgyUTNvck81ZEpoN05GQzNUVlRyZXBvQWozQ1Zz
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fOfGPZx47Q458WPxH3jQHcItvao.jpg" group-title="Séries", Percy Jackson E Os Olímpianos: Episódio 03 - Nossa visita ao Empório de Anões de Jardim
+https://m3u8.vg/playlist.m3u8?server=RCServer22&subfolder=ondemand&vid=c0hIMENkYmVWMUViR3poeDhHeEgyUTNvck81ZEpoN05GQzNUVlRyZXBvQWozQ1Z0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="BRASIL", A Culpa é do Cabral
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Batman Animated Series
@@ -119,21 +157,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41a
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Pica-Pau
 http://suatv.fun:80/646319186530/017891059193/486699
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Super Shock
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm0XY0P/24hdesenhos.png" group-title="CANAIS 24H", Super-Choque
 http://suatv.fun:80/646319186530/017891059193/486718
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg" group-title="Filmes", Entre Facas e Segredos
-https://download2303.mediafire.com/cy35g76aimgggOOwlR7qnGhjd-XJr_1qh6rIBYAAyW-lCDrgbi1rnJkVOHKzivuvv3evXNvUkFpJT7OlhN5IhzThcudyRDiSOXzy9lrB18aFzwUTp6PTid9EHUfuHSz-1ciT-JEfC4Ubb0gCZsRBuOiVd5GBC4pAVRxu7rDQNVNZ_aY/p3rh1v4psj7a9m9/32c5b540d846618901f13d164f42f1d3.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg" group-title="Filmes", O Iluminado
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/03165/r055yegbjvpt_o/index-v1-a1.m3u8?t=FJYofWJZhlUw0TK9ffcBKh23LRvFEMk_B7NBoOngN2c&s=1701185687&e=43200&f=21944477&srv=01&asn=27699&sp=2000
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sUi3a3BTTku0vyLjJQgKtiWCok7.jpg" group-title="Filmes", Truque de Mestre
-https://download2268.mediafire.com/7wgb3t0ewtvgynjcM9hDd2pdk5Lkdd0XWoV3TIynGQsmSzPnLzwbB0qneXwVzTay5CjmdMy-2fx_uE8vL7lguqyZu7nrqueZryRlr3bnTemhKM-GuWDE_Amoxhi9hWYBQgHuuBEhT24dqh9ZjbyN_HVkkV0vuNXg9YMO_oj1_l-8NmY/a8rergu2u7t7yxk/ea653121b2e34464d6a9dc0b4232ab4a.mp4
-#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2016/04/truquedemestre2_24.jpg" group-title="Filmes", Truque de Mestre: O 2° Ato
-https://download854.mediafire.com/krrn7d68nang6U0AvZVEnytePpIkQ6mEIRE38jEmsj0NMfmN0sqFvnj5woe_ZbzguFu1NkKal6T7tmcbLfW13koJCCbw1KMmTSLi6VRl4mkYBw1tgCR-rCdqQaj8EUFJKzHuJwy_zZQ9jmir9EOOKt5rLpMs4k1ddjYXQHTWZjPlnEs/uywhj25cdaya31z/470d1cd218eab40ae3c23ba5e92d69b4.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/1qDivmsYL79dQZngyT3oKd4L9tA.jpg" group-title="Filmes", Shazam! Fúria dos Deuses
-https://download2331.mediafire.com/jtbtwj7ttv8gG1t33iQ3f8lZyDQGZGjLcWyuqM6bvsLyCvollr-vzLfQakWg978Ewgs1QSafhVzzeZpsIspRQUgOO_fXuVZf8gMolo5RRWXJsHCBb4P6VAqHlXjjczwORJ5h5Q3IrRvHIJCdPf9opYcW7Hjp5jvQd-nKTJQFf6_1Lg/94ipxvjmqq7mzs7/350a5797726b42f5a274767cbcd00b18.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7178I9T3a27Td5kyjrT207F3hwP.jpg" group-title="Filmes", Baywatch S.O.S Malibu
-https://download2280.mediafire.com/2dbrl9ab34vgQsZ6Xk6fLD-2Zza4aX-BisTcr0tKc4V4qmf2x7nBSm-dbJ5szj2EjzUsaBIR6LD108HWLHd-WrQtdTPLAwwLkNy1H1XGM9FgkV_G--YujmgSIpCj6YK-MVygsoYXqFy9hYh4VC8W_NYox-YS94XutaEBIgqdqsh3s1c/qjsff0qlhqufedl/b0bd41b7ff26e86d43d1fb386edd4637.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg" group-title="Filmes", Trem Bala
-https://download2296.mediafire.com/mchst3xpc9fgJKi7mgexfknETJdfGis2xklljn-76hR99VGKENKx7DGNs4VjnML_gPGsw2JaIotG5hXyLcmD3VTw5weKUDyk5oBGfGzwMYWzFJlsUVBuvbQHbR68l8ysLa7VBXCwe5xTKxsaYyVOp5-k9Z6aMPk1t9m-l6_Q3UxGvg/xcojnwg90dzbief/d8f6be8ddb962dab90bb3d07dd6a9b88.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="Filmes", Velozes & Furiosos: Hobbs and Shaw
-https://download2266.mediafire.com/mctfhfzik3eg19BC30NFjZaFeUt189UsFhhBmnvWVLNy4gSVB_r2S9UBNML11Axba4LJYizO2Am4T8Ecib5EhTjM1jx2bBOV1C0bbFLi5qTO6m5kpsE4B-t0kLh4Y_opMri_gRXMsALME4QUQklPpEk152tjO3uGFB4DyBdsy9ly2w/akn12xzbe6lkk5h/3cc210605af60e0324e340b62df52f1a.mp4
